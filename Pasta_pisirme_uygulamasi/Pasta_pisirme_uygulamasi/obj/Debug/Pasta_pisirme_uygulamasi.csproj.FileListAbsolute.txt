@@ -1,0 +1,11 @@
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\bin\Debug\Pasta_pisirme_uygulamasi.exe.config
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\bin\Debug\Pasta_pisirme_uygulamasi.exe
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\bin\Debug\Pasta_pisirme_uygulamasi.pdb
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.csproj.AssemblyReference.cache
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.Form1.resources
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.Properties.Resources.resources
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.csproj.GenerateResource.cache
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.csproj.CoreCompileInputs.cache
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.exe
+D:\udemy_c#\Pasta_pisirme_uygulamasi\Pasta_pisirme_uygulamasi\obj\Debug\Pasta_pisirme_uygulamasi.pdb
